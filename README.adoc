@@ -1,0 +1,16 @@
+= 克苏鲁相关资料
+Shuai Zhang<zhangshuai.ustc@gmail.com>
+
+== 索引
+
+TODO(zhangshuai.ds): Generate Index
+
+== 主要来源
+
+. link:goddessfantasy.net[纯美苹果园]
+. link:http://wiki.cnmods.org/doku.php?id=start[魔都Wiki]
+
+== 待办事项
+
+. 使用思源宋体和思源黑体
+. 去除代码相关
