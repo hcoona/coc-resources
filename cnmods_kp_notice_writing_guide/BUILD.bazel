@@ -1,0 +1,10 @@
+load("//:defs.bzl", "my_latex_gen")
+
+my_latex_gen(
+    name = "main",
+    main = "main.tex",
+    deps = [
+        "//common:common",
+        "NPC.jpg",
+    ],
+)
